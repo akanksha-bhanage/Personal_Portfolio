@@ -4,7 +4,7 @@ A modern and responsive personal portfolio built with **React** and **Vite** to 
 
 ## 🌐 Live Demo
 
-* **Portfolio:** `YOUR_PORTFOLIO_LINK`
+* **Portfolio:** `https://personal-portfolio-seven-phi-80.vercel.app/`
 
 ---
 
@@ -119,7 +119,7 @@ src/
 ### Clone the repository
 
 ```bash
-git clone YOUR_PORTFOLIO_REPO_URL
+git clone https://github.com/akanksha-bhanage/Personal_Portfolio.git
 cd Personal_Portfolio
 ```
 
